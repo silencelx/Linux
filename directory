@@ -1,6 +1,6 @@
-- / 根目录
-- /root root 用户家目录
-- /home/username 普通用户的家目录
-- /etc 配置文件目录
-- /sbin 管理命名目录
-- /usr/bin  /usr/sbin 系统预装的其他命令
+/ 根目录
+/root root 用户家目录
+/home/username 普通用户的家目录
+/etc 配置文件目录
+/sbin 管理命名目录
+/usr/bin  /usr/sbin 系统预装的其他命令
