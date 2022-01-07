@@ -4,3 +4,5 @@
 命令模式（command-mode）
 可视模式（visual-mode）
 
+
+dd 删除游标所在的那一整行(常用)
